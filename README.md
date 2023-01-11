@@ -2,7 +2,7 @@
 
 # Descripition 
 
-The **devpostApp** is a project developed during **Sujeito Programador** classes. The porpouse of the application is to make a Social App, so then the users can create the account, once logged in, the users are able to send a new post, or like the posts. The application is similiar to the "Facebook" consedering the post features.
+The **devpostApp** is a project developed during **Sujeito Programador** classes. The purpose of the application is to make a Social App, so then the users can create the account, once logged in, the users are able to send a new post, or like the posts. The application is similiar to the "Facebook" consedering the post features.
 
 **Sujeito Programador:**
 https://sujeitoprogramador.com/
